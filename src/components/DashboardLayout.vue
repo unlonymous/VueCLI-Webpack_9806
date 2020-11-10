@@ -37,8 +37,9 @@ name : "Dashboard",
 data () {
 return {
 items : [
-{ title : "Dashboard", to : "/" } ,
-{ title : "GD", to : "/gd " } ,
+{title : "Dashboard", to :"/"} ,
+{title : "GD", to : "/gd"} ,
+{title : "UGD", to : "/ugd"} ,
 ] ,
 } ;
 } ,
